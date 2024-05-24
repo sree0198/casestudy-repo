@@ -1,7 +1,12 @@
 {
   "name": "react-complete-guide",
+<<<<<<< HEAD
   "version": "0.2.0",
   "private": fal,
+=======
+  "version": "0.1.0",
+  "private": false,
+>>>>>>> e1fc21e11ab2efec01ad49515a630b6cf74eb84e
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
